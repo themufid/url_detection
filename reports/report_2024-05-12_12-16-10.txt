@@ -1,0 +1,3 @@
+Report untuk URL: https://heroic.web.id
+Status: Tidak Aman
+Pesan: Gagal memeriksa URL: HTTPSConnectionPool(host='heroic.web.id', port=443): Max retries exceeded with url: / (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000239755C0DC0>: Failed to resolve 'heroic.web.id' ([Errno 11002] getaddrinfo failed)"))
